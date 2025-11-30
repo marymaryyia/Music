@@ -89,7 +89,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: url(image.png) center/cover no-repeat;
+            background: url(https://images.squarespace-cdn.com/content/v1/5a6f4bcb64b05fab1682b0b1/1582842565673-RY6AKPGZ1FGQR40GRRFM/image-asset.jpeg) center/cover no-repeat;
             filter: brightness(0.3) sepia(0.2);
             z-index: -2;
             transform: scale(1.1);
